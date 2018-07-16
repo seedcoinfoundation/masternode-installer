@@ -7,10 +7,10 @@ If you don't have a VPS yet, please choose a small Ubuntu 16.04 virtual machine 
 Usage:
 
 ```
-wget URL && sudo chmod 755 install.sh && ./install.sh
+wget https://raw.githubusercontent.com/seedcoinfoundation/masternode-installer/master/install.sh && sudo chmod 755 install.sh && ./install.sh
 ```
     
-Instructions and how-to: URL
+Instructions and how-to: https://github.com/seedcoinfoundation/seedcoin/wiki/Setup-Linux-Masternode
   
 ### License
 
